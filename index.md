@@ -280,4 +280,4 @@ use Telegraph\Dispatcher;
 
 $dispatcher = new Dispatcher($queue, $resolver);
 $response = $dispatcher->dispatch($request);
-```
+{% endhighlight %}
