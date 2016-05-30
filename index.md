@@ -2,7 +2,10 @@
 layout: site
 ---
 
-<div style="font-size: 80%; text-align: center; color: gray;">For middleware to use with Telegraph, please review <a href="https://github.com/telegraphp/telegraph.middleware">telegraph/middleware</a>.</div>
+<div style="font-size: 80%; text-align: center; color: gray;">
+    <p>Telegraph is essentially a "request-only" (as vs "request + response") variation of <a href="http://relayphp.com">Relay</a>.</p>
+    <p>For middleware to use with Telegraph, please review <a href="https://github.com/telegraphp/telegraph.middleware">telegraph/middleware</a>.</p>
+</div>
 
 # Middleware Signature
 
